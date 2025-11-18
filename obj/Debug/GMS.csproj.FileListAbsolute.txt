@@ -1,0 +1,82 @@
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS.exe.config
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS.exe
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS.pdb
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS_Business.dll
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS_DataAccess.dll
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS_Business.pdb
+C:\Users\Mahmoud\source\repos\GMS\bin\Debug\GMS_DataAccess.pdb
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.csproj.Up2Date
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.exe
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.pdb
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.People.Controls.ctrlPersonCard.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Test.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.People.frmFindPerson.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.People.frmShowPersonInfo.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.People.frmListPeople.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.frmAddEditPeople.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.exe.config
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Users.frmAddUpdateUser.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Users.ctrlUserCard.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Users.frmUserInfo.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Users.frmChangePassword.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Users.frmListUsers.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.frmMain.resources
+C:\Users\Mahmoud\source\repos\GMS\obj\Debug\GMS.Login.frmLogin.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS.exe.config
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS.exe
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS_Business.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS_DataAccess.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS_Business.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\bin\Debug\GMS_DataAccess.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.csproj.AssemblyReference.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.exe.config
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.frmMain.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Login.frmLogin.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.People.Controls.ctrlPersonCard.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.frmAddEditPeople.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.People.frmFindPerson.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.People.frmListPeople.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.People.frmShowPersonInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Properties.Resources.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Test.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Users.ctrlUserCard.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Users.frmAddUpdateUser.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Users.frmChangePassword.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Users.frmListUsers.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Users.frmUserInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.csproj.GenerateResource.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.csproj.Up2Date
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.exe
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.ApplicationTypes.frmEditApplicationType.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.ApplicationTypes.frmListApplicationTypes.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.frmAddUpdateEquipments.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.controls.ctrlEquipmentCard.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.controls.ctrlEquipmentCardWithFilter.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.controls.frmFindEquipment.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.frmListEquipments.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Equipments.frmShowEquipmentInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Subscriptions.frmAddEditSubscription.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.Control.ctrlApplicationBasicInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.Subscriptions.ctrlSubscriptionInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.Subscriptions.frmListSubscriptionApplications.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.Subscriptions.frmSubscriptionBasicInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Trainers.frmAddUpdateTrainer.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Trainers.ctrlTrainerCard.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Trainers.frmListTrainers.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Trainers.frmTrainerInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.MembershipCards.frmIssueMembershipCardForTheFirstTime.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.MembershipCards.ctrlMembershipCardInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.MembershipCards.ctrlMembershipCardInfoWithFilter.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.MembershipCards.frmShowMembershipCardInfo.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Members.frmListMembers.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.RenewScpscriptionApplication.frmRenewMembershipCardApplication.resources
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS\obj\Debug\GMS.Applications.ReplaceCardApplication.frmReplaceMembershipCardApplication.resources

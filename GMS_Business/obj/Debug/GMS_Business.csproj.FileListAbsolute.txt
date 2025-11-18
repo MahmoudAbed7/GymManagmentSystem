@@ -1,0 +1,18 @@
+C:\Users\Mahmoud\source\repos\GMS_Business\bin\Debug\GMS_Business.dll
+C:\Users\Mahmoud\source\repos\GMS_Business\bin\Debug\GMS_Business.pdb
+C:\Users\Mahmoud\source\repos\GMS_Business\bin\Debug\GMS_DataAccess.dll
+C:\Users\Mahmoud\source\repos\GMS_Business\bin\Debug\GMS_DataAccess.pdb
+C:\Users\Mahmoud\source\repos\GMS_Business\obj\Debug\GMS_Business.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\GMS_Business\obj\Debug\GMS_Business.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\GMS_Business\obj\Debug\GMS_Busi.B63B24D2.Up2Date
+C:\Users\Mahmoud\source\repos\GMS_Business\obj\Debug\GMS_Business.dll
+C:\Users\Mahmoud\source\repos\GMS_Business\obj\Debug\GMS_Business.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\bin\Debug\GMS_Business.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\bin\Debug\GMS_Business.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\bin\Debug\GMS_DataAccess.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\bin\Debug\GMS_DataAccess.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\obj\Debug\GMS_Business.csproj.AssemblyReference.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\obj\Debug\GMS_Business.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\obj\Debug\GMS_Busi.B63B24D2.Up2Date
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\obj\Debug\GMS_Business.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_Business\obj\Debug\GMS_Business.pdb

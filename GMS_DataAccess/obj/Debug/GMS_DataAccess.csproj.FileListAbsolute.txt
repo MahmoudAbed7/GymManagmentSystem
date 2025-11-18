@@ -1,0 +1,12 @@
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\bin\Debug\GMS_DataAccess.dll
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\bin\Debug\GMS_DataAccess.pdb
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\obj\Debug\GMS_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\obj\Debug\GMS_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\obj\Debug\GMS_DataAccess.dll
+C:\Users\Mahmoud\source\repos\GMS_DataAccess\obj\Debug\GMS_DataAccess.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\bin\Debug\GMS_DataAccess.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\bin\Debug\GMS_DataAccess.pdb
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\obj\Debug\GMS_DataAccess.csproj.AssemblyReference.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\obj\Debug\GMS_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\obj\Debug\GMS_DataAccess.dll
+C:\Users\mahmo\Downloads\مشاريع برمجة\GMS_DataAccess\obj\Debug\GMS_DataAccess.pdb
