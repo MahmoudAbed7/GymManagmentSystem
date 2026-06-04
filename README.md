@@ -70,4 +70,4 @@ The database is fully normalized to eliminate redundancy. Core entities include:
 
 ### 👨‍💻 Developed By
 *   **Mahmoud Abed** - *Backend & .NET Developer*
-*   [GitHub Profile](https://github.com/MahmoudAbed7)
+*   (https://github.com/MahmoudAbed7)
